@@ -1,0 +1,8 @@
+tomstyle
+========
+
+A modern, beautiful Natbib style for humanists.
+
+Inspired by the citation style of Oxford University Press books, but with a few little tweaks.
+
+Derived from Merlin.

@@ -1,7 +1,7 @@
 tomstyle
 ========
 
-<img src="https://raw.github.com/tommorris/tomstyle/master/example.png" style="border: 1px solid grey;" />
+<img src="https://raw.github.com/tommorris/tomstyle/master/example.png" style="border: 1px solid gray;" />
 
 A modern, beautiful Natbib style for humanists.
 

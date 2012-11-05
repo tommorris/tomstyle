@@ -1,6 +1,8 @@
 tomstyle
 ========
 
+<img src="https://raw.github.com/tommorris/tomstyle/master/example.png" />
+
 A modern, beautiful Natbib style for humanists.
 
 Inspired by the citation style of Oxford University Press books, but with a few little tweaks.
